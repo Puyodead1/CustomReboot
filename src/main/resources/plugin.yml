@@ -1,0 +1,11 @@
+name: CustomReboot
+description: Reboot server with messages
+main: me.puyodead1.customreboot.CustomReboot
+author: Puyodead1
+version: 2.0.0
+api-version: 1.14
+commands:
+  reboot:
+    description: Initiate server reboot
+  rebootnow:
+    description: Reboot the server imedietly
